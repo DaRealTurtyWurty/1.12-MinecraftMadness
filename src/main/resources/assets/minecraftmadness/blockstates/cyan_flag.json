@@ -1,0 +1,29 @@
+{
+    "variants": 
+    {
+        "facing=up": 
+        { 
+            "model": "minecraftmadness:cyan_flag" 
+        },
+    
+        "facing=south": 
+        { 
+            "model": "minecraftmadness:cyan_flag" 
+        },
+    
+        "facing=east": 
+        { 
+            "model": "minecraftmadness:cyan_flag","y":270 
+        },
+    
+        "facing=west": 
+        { 
+            "model": "minecraftmadness:cyan_flag","y":90 
+        },
+    
+        "facing=north": 
+        { 
+            "model": "minecraftmadness:cyan_flag","y":180 
+        }
+    }
+}

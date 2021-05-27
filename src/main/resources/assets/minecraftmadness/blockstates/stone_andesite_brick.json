@@ -1,0 +1,9 @@
+{
+    "variants": 
+    {
+        "normal": 
+        { 
+            "model": "minecraftmadness:stone_andesite_brick" 
+        }
+    }
+}

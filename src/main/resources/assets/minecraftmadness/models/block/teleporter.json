@@ -1,0 +1,13 @@
+{
+   "parent": "block/cube",
+   "textures": 
+   {
+       "particle": "minecraftmadness:blocks/teleporter_side",
+       "up": "minecraftmadness:blocks/teleporter_up",
+       "north": "minecraftmadness:blocks/teleporter_side",
+       "south": "minecraftmadness:blocks/teleporter_side",
+       "east": "minecraftmadness:blocks/teleporter_side",
+       "west": "minecraftmadness:blocks/teleporter_side",
+       "down": "minecraftmadness:blocks/teleporter_down"
+   }
+}

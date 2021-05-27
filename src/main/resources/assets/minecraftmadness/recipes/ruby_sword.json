@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " I ",
+        " I ",
+        " S "
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "minecraftmadness:ruby"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "minecraftmadness:sword_ruby",
+        "count": 1
+    }
+}

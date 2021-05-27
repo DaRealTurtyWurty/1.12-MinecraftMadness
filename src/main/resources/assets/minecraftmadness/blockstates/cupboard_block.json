@@ -1,0 +1,24 @@
+{
+    "variants": 
+    {
+        "facing=south": 
+        { 
+            "model": "minecraftmadness:cupboard_block", "y": 180
+        },
+    
+        "facing=east": 
+        { 
+            "model": "minecraftmadness:cupboard_block","y":90 
+        },
+    
+        "facing=west": 
+        { 
+            "model": "minecraftmadness:cupboard_block","y":270 
+        },
+    
+        "facing=north": 
+        { 
+            "model": "minecraftmadness:cupboard_block" 
+        }
+    }
+}

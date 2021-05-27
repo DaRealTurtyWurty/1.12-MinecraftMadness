@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "CBC",
+        " C ",
+        "CCC"
+    ],
+    
+    "key":
+    {
+        "C":
+        {
+            "item": "minecraft:cobblestone"
+        },  
+        "B":
+        {
+            "item": "minecraft:water_bucket"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "minecraftmadness:bird_bath",
+        "count": 1
+    }
+}

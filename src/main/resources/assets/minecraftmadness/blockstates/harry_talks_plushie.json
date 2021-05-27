@@ -1,0 +1,29 @@
+{
+    "variants": 
+    {
+        "facing=up": 
+        { 
+            "model": "minecraftmadness:harry_talks_plushie" 
+        },
+    
+        "facing=south": 
+        { 
+            "model": "minecraftmadness:harry_talks_plushie" 
+        },
+    
+        "facing=east": 
+        { 
+            "model": "minecraftmadness:harry_talks_plushie","y":270 
+        },
+    
+        "facing=west": 
+        { 
+            "model": "minecraftmadness:harry_talks_plushie","y":90 
+        },
+    
+        "facing=north": 
+        { 
+            "model": "minecraftmadness:harry_talks_plushie","y":180 
+        }
+    }
+}

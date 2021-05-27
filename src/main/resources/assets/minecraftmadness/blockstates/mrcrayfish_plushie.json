@@ -1,0 +1,29 @@
+{
+    "variants": 
+    {
+        "facing=up": 
+        { 
+            "model": "minecraftmadness:mrcrayfish_plushie" 
+        },
+    
+        "facing=south": 
+        { 
+            "model": "minecraftmadness:mrcrayfish_plushie" 
+        },
+    
+        "facing=east": 
+        { 
+            "model": "minecraftmadness:mrcrayfish_plushie","y":270 
+        },
+    
+        "facing=west": 
+        { 
+            "model": "minecraftmadness:mrcrayfish_plushie","y":90 
+        },
+    
+        "facing=north": 
+        { 
+            "model": "minecraftmadness:mrcrayfish_plushie","y":180 
+        }
+    }
+}

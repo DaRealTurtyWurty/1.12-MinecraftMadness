@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "WWW",
+        "WIW",
+        "WWW"
+    ],
+    
+    "key":
+    {
+        "W":
+        {
+            "item": "minecraft:wool",
+            "data": 5
+        },
+        
+        "I":
+        {
+            "item": "minecraft:iron_nugget"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "minecraftmadness:fapdos_plushie",
+        "count": 1
+    }
+}

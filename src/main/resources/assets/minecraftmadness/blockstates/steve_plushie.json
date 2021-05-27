@@ -1,0 +1,29 @@
+{
+    "variants": 
+    {
+        "facing=up": 
+        { 
+            "model": "minecraftmadness:steve_plushie" 
+        },
+    
+        "facing=south": 
+        { 
+            "model": "minecraftmadness:steve_plushie" 
+        },
+    
+        "facing=east": 
+        { 
+            "model": "minecraftmadness:steve_plushie","y":270 
+        },
+    
+        "facing=west": 
+        { 
+            "model": "minecraftmadness:steve_plushie","y":90 
+        },
+    
+        "facing=north": 
+        { 
+            "model": "minecraftmadness:steve_plushie","y":180 
+        }
+    }
+}

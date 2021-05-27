@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "GRG",
+        "G G",
+        "GGG"
+    ],
+    
+    "key":
+    {
+        "R":
+        {
+            "item": "minecraftmadness:ruby"
+        },
+        "G":
+        {
+            "item": "minecraft:gold_ingot"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "minecraftmadness:ring",
+        "count": 1
+    }
+}

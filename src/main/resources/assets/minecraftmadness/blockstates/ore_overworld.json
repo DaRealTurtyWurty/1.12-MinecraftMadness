@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "variant=ruby": { "model": "minecraftmadness:ore_overworld_ruby" },
+        "variant=sapphire": { "model": "minecraftmadness:ore_overworld_sapphire" },
+        "variant=copper": { "model": "minecraftmadness:ore_overworld_copper" },
+        "variant=tin": { "model": "minecraftmadness:ore_overworld_tin" },
+        "variant=amethyst": { "model": "minecraftmadness:ore_overworld_amethyst" }
+    }
+}

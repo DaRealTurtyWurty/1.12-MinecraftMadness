@@ -1,0 +1,29 @@
+{
+    "variants": 
+    {
+        "facing=up": 
+        { 
+            "model": "minecraftmadness:red_flag" 
+        },
+    
+        "facing=south": 
+        { 
+            "model": "minecraftmadness:red_flag" 
+        },
+    
+        "facing=east": 
+        { 
+            "model": "minecraftmadness:red_flag","y":270 
+        },
+    
+        "facing=west": 
+        { 
+            "model": "minecraftmadness:red_flag","y":90 
+        },
+    
+        "facing=north": 
+        { 
+            "model": "minecraftmadness:red_flag","y":180 
+        }
+    }
+}

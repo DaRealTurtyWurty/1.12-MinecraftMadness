@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "WWW",
+        "WCW",
+        "WWW"
+    ],
+    
+    "key":
+    {
+        "W":
+        {
+            "item": "minecraft:wool",
+            "data": 7
+        },
+        
+        "C":
+        {
+            "item": "minecraft:crafting_table"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "minecraftmadness:intivi_plushie",
+        "count": 1
+    }
+}

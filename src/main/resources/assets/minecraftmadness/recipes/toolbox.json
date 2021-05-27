@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "CCC",
+        "CPC",
+        "CCC"
+    ],
+    
+    "key":
+    {
+        "C":
+        {
+            "item": "minecraft:hardened_clay"
+        },  
+        "P":
+        {
+            "item": "minecraft:stone_pickaxe"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "minecraftmadness:toolbox",
+        "count": 1
+    }
+}

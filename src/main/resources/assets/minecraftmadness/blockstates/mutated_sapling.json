@@ -1,0 +1,6 @@
+{
+    "variants": {
+        "stage=0": { "model": "minecraftmadness:mutated_sapling" },
+        "stage=1": { "model": "minecraftmadness:mutated_sapling" }
+    }
+}

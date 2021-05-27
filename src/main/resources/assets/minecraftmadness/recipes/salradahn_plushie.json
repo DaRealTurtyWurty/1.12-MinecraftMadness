@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "WWW",
+        "WBW",
+        "WWW"
+    ],
+    
+    "key":
+    {
+        "W":
+        {
+            "item": "minecraft:wool",
+            "data": 10
+        },
+        
+        "B":
+        {
+            "item": "minecraft:bow"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "minecraftmadness:salradahn_plushie",
+        "count": 1
+    }
+}

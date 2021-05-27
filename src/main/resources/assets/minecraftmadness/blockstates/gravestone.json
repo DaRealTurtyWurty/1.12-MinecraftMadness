@@ -1,0 +1,29 @@
+{
+    "variants": 
+    {
+        "facing=up": 
+        { 
+            "model": "minecraftmadness:gravestone" 
+        },
+    
+        "facing=south": 
+        { 
+            "model": "minecraftmadness:gravestone"
+        },
+    
+        "facing=east": 
+        { 
+            "model": "minecraftmadness:gravestone","y":90 
+        },
+    
+        "facing=west": 
+        { 
+            "model": "minecraftmadness:gravestone","y":270 
+        },
+    
+        "facing=north": 
+        { 
+            "model": "minecraftmadness:gravestone", "y": 180
+        }
+    }
+}

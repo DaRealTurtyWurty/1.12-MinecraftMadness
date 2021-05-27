@@ -1,0 +1,13 @@
+{
+   "parent": "block/cube",
+   "textures": 
+   {
+       "particle": "minecraftmadness:blocks/quarry_basic_side",
+       "north": "minecraftmadness:blocks/quarry_basic_side",
+       "south": "minecraftmadness:blocks/quarry_basic_side",
+       "east": "minecraftmadness:blocks/quarry_basic_side",
+       "west": "minecraftmadness:blocks/quarry_basic_side",
+       "up": "minecraftmadness:blocks/quarry_basic_top",
+       "down": "minecraftmadness:blocks/quarry_basic_bottom"
+   }
+}

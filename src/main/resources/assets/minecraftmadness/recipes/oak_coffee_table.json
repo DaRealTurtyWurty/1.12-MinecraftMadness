@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "   ",
+        "WWW",
+        "L L"
+    ],
+    
+    "key":
+    {
+        "W":
+        {
+            "item": "minecraft:planks",
+            "data": 0
+        },
+        "L":
+        {
+            "item": "minecraft:log",
+            "data": 0
+        }
+    },
+    
+    "result":
+    {
+        "item": "minecraftmadness:oak_coffee_table",
+        "count": 1
+    }
+}

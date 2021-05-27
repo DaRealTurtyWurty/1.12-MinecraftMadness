@@ -1,0 +1,29 @@
+{
+    "variants": 
+    {
+        "facing=up": 
+        { 
+            "model": "minecraftmadness:freezer_block" 
+        },
+    
+        "facing=south": 
+        { 
+            "model": "minecraftmadness:freezer_block" 
+        },
+    
+        "facing=east": 
+        { 
+            "model": "minecraftmadness:freezer_block","y":270 
+        },
+    
+        "facing=west": 
+        { 
+            "model": "minecraftmadness:freezer_block","y":90 
+        },
+    
+        "facing=north": 
+        { 
+            "model": "minecraftmadness:freezer_block","y":180 
+        }
+    }
+}

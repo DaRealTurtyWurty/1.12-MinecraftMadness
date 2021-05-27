@@ -1,0 +1,29 @@
+{
+    "variants": 
+    {
+        "facing=up": 
+        { 
+            "model": "minecraftmadness:chimney" 
+        },
+    
+        "facing=south": 
+        { 
+            "model": "minecraftmadness:chimney" 
+        },
+    
+        "facing=east": 
+        { 
+            "model": "minecraftmadness:chimney","y":270 
+        },
+    
+        "facing=west": 
+        { 
+            "model": "minecraftmadness:chimney","y":90 
+        },
+    
+        "facing=north": 
+        { 
+            "model": "minecraftmadness:chimney","y":180 
+        }
+    }
+}

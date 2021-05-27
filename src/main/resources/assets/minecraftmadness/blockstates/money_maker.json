@@ -1,0 +1,29 @@
+{
+    "variants": 
+    {
+        "facing=up": 
+        { 
+            "model": "minecraftmadness:money_maker" 
+        },
+    
+        "facing=south": 
+        { 
+            "model": "minecraftmadness:money_maker" 
+        },
+    
+        "facing=east": 
+        { 
+            "model": "minecraftmadness:money_maker","y":270 
+        },
+    
+        "facing=west": 
+        { 
+            "model": "minecraftmadness:money_maker","y":90 
+        },
+    
+        "facing=north": 
+        { 
+            "model": "minecraftmadness:money_maker","y":180 
+        }
+    }
+}

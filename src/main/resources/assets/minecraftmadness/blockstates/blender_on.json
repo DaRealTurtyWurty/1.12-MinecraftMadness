@@ -1,0 +1,29 @@
+{
+    "variants": 
+    {
+        "facing=up": 
+        { 
+            "model": "minecraftmadness:blender_on" 
+        },
+    
+        "facing=south": 
+        { 
+            "model": "minecraftmadness:blender_on" 
+        },
+    
+        "facing=east": 
+        { 
+            "model": "minecraftmadness:blender_on","y":270 
+        },
+    
+        "facing=west": 
+        { 
+            "model": "minecraftmadness:blender_on","y":90 
+        },
+    
+        "facing=north": 
+        { 
+            "model": "minecraftmadness:blender_on","y":180 
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " #W",
+        "  W",
+        " WW"
+    ],
+    
+    "key":
+    {
+        "W":
+        {
+            "item": "minecraft:planks",
+            "data": 0
+        },  
+        "#":
+        {
+            "item": "minecraft:wool",
+            "data": 32767
+        }
+    },
+    
+    "result":
+    {
+        "item":  "minecraftmadness:globe",
+        "count": 1
+    }
+}

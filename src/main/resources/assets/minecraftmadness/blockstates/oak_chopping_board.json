@@ -1,0 +1,29 @@
+{
+    "variants": 
+    {
+        "facing=up": 
+        { 
+            "model": "minecraftmadness:oak_chopping_board" 
+        },
+    
+        "facing=south": 
+        { 
+            "model": "minecraftmadness:oak_chopping_board" 
+        },
+    
+        "facing=east": 
+        { 
+            "model": "minecraftmadness:oak_chopping_board","y":270 
+        },
+    
+        "facing=west": 
+        { 
+            "model": "minecraftmadness:oak_chopping_board","y":90 
+        },
+    
+        "facing=north": 
+        { 
+            "model": "minecraftmadness:oak_chopping_board","y":180 
+        }
+    }
+}

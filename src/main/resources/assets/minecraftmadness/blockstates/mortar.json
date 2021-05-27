@@ -1,0 +1,29 @@
+{
+    "variants": 
+    {
+        "facing=up": 
+        { 
+            "model": "minecraftmadness:mortar" 
+        },
+    
+        "facing=south": 
+        { 
+            "model": "minecraftmadness:mortar" 
+        },
+    
+        "facing=east": 
+        { 
+            "model": "minecraftmadness:mortar","y":270 
+        },
+    
+        "facing=west": 
+        { 
+            "model": "minecraftmadness:mortar","y":90 
+        },
+    
+        "facing=north": 
+        { 
+            "model": "minecraftmadness:mortar","y":180 
+        }
+    }
+}

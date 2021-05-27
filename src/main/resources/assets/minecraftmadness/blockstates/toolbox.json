@@ -1,0 +1,29 @@
+{
+    "variants": 
+    {
+        "facing=up": 
+        { 
+            "model": "minecraftmadness:toolbox" 
+        },
+    
+        "facing=south": 
+        { 
+            "model": "minecraftmadness:toolbox" 
+        },
+    
+        "facing=east": 
+        { 
+            "model": "minecraftmadness:toolbox","y":270 
+        },
+    
+        "facing=west": 
+        { 
+            "model": "minecraftmadness:toolbox","y":90 
+        },
+    
+        "facing=north": 
+        { 
+            "model": "minecraftmadness:toolbox","y":180 
+        }
+    }
+}

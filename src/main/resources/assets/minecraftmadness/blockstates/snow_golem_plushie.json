@@ -1,0 +1,29 @@
+{
+    "variants": 
+    {
+        "facing=up": 
+        { 
+            "model": "minecraftmadness:snow_golem_plushie" 
+        },
+    
+        "facing=south": 
+        { 
+            "model": "minecraftmadness:snow_golem_plushie" 
+        },
+    
+        "facing=east": 
+        { 
+            "model": "minecraftmadness:snow_golem_plushie","y":270 
+        },
+    
+        "facing=west": 
+        { 
+            "model": "minecraftmadness:snow_golem_plushie","y":90 
+        },
+    
+        "facing=north": 
+        { 
+            "model": "minecraftmadness:snow_golem_plushie","y":180 
+        }
+    }
+}

@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " S ",
+        " W ",
+        "BBB"
+    ],
+    
+    "key":
+    {
+        "B":
+        {
+            "item": "minecraft:stained_hardened_clay",
+            "data": 12
+        },  
+        "W":
+        {
+            "item": "minecraft:stained_hardened_clay",
+            "data": 0
+        },
+        "S":
+        {
+            "item": "minecraft:string"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "minecraftmadness:block_candle",
+        "count": 1
+    }
+}

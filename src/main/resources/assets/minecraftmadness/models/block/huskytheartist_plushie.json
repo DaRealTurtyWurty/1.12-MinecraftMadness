@@ -1,0 +1,135 @@
+{
+	"textures": {
+		"0": "blocks/planks_oak",
+		"1": "minecraftmadness:blocks/huskytheartist_skin",
+		"particle": "blocks/planks_oak"
+	},
+	"elements": [
+		{
+			"name": "Body",
+			"from": [6, 2, 7],
+			"to": [10, 6, 9],
+			"faces": {
+				"north": {"uv": [4.75, 5, 7.25, 8], "texture": "#1"},
+				"east": {"uv": [4, 5, 5, 8], "texture": "#1"},
+				"south": {"uv": [8, 5, 10, 8], "texture": "#1"},
+				"west": {"uv": [4, 5, 5, 8], "texture": "#1"},
+				"up": {"uv": [12.5, 5, 10.75, 5.5], "texture": "#1"},
+				"down": {"uv": [7, 4, 9, 5], "texture": "#1"}
+			}
+		},
+		{
+			"name": "Head",
+			"from": [6.5, 6, 6],
+			"to": [9.5, 9, 9],
+			"faces": {
+				"north": {"uv": [2, 2, 4, 4], "texture": "#1"},
+				"east": {"uv": [6, 2, 8, 4], "texture": "#1"},
+				"south": {"uv": [4, 2, 6, 4], "texture": "#1"},
+				"west": {"uv": [6.25, 2, 8, 4], "texture": "#1"},
+				"up": {"uv": [2, 0, 4, 2], "texture": "#1"},
+				"down": {"uv": [4, 0, 6, 2], "texture": "#1"}
+			}
+		},
+		{
+			"name": "RightLeg",
+			"from": [9, 1, 5],
+			"to": [10, 2, 9],
+			"faces": {
+				"north": {"uv": [2, 4, 3, 5], "texture": "#1"},
+				"east": {"uv": [1, 5, 2, 8], "rotation": 270, "texture": "#1"},
+				"south": {"uv": [1, 4, 2, 5], "texture": "#1"},
+				"west": {"uv": [1, 5, 2, 8], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [1, 8, 2, 5], "texture": "#1"},
+				"down": {"uv": [1, 5, 2, 8], "rotation": 270, "texture": "#1"}
+			}
+		},
+		{
+			"name": "LeftArm",
+			"from": [5, 4, 6],
+			"to": [6, 5, 8],
+			"faces": {
+				"north": {"uv": [12, 4, 13, 5], "texture": "#1"},
+				"east": {"uv": [12, 5, 11, 7.75], "rotation": 90, "texture": "#1"},
+				"south": {"uv": [11, 4, 12, 5], "texture": "#1"},
+				"west": {"uv": [12, 7.75, 11, 5], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [11, 5, 12, 7.75], "rotation": 180, "texture": "#1"},
+				"down": {"uv": [11, 5, 12, 7.75], "texture": "#1"}
+			}
+		},
+		{
+			"name": "RightArm",
+			"from": [10, 4, 6],
+			"to": [11, 5, 8],
+			"faces": {
+				"north": {"uv": [12, 4, 13, 5], "texture": "#1"},
+				"east": {"uv": [12, 5, 11, 7.75], "rotation": 90, "texture": "#1"},
+				"south": {"uv": [11, 4, 12, 5], "texture": "#1"},
+				"west": {"uv": [12, 7.75, 11, 5], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [11, 5, 12, 7.75], "rotation": 180, "texture": "#1"},
+				"down": {"uv": [11, 5, 12, 7.75], "texture": "#1"}
+			}
+		},
+		{
+			"name": "LeftLeg",
+			"from": [6, 1, 5],
+			"to": [7, 2, 9],
+			"faces": {
+				"north": {"uv": [2, 4, 3, 5], "texture": "#1"},
+				"east": {"uv": [1, 5, 2, 8], "rotation": 270, "texture": "#1"},
+				"south": {"uv": [1, 4, 2, 5], "texture": "#1"},
+				"west": {"uv": [1, 5, 2, 8], "rotation": 90, "texture": "#1"},
+				"up": {"uv": [1, 8, 2, 5], "texture": "#1"},
+				"down": {"uv": [1, 5, 2, 8], "rotation": 270, "texture": "#1"}
+			}
+		},
+		{
+			"name": "Baseplate",
+			"from": [2, 0, 2],
+			"to": [14, 1, 14],
+			"faces": {
+				"north": {"uv": [2, 15, 14, 16], "texture": "#0"},
+				"east": {"uv": [14, 16, 2, 15], "texture": "#0"},
+				"south": {"uv": [2, 15, 14, 16], "texture": "#0"},
+				"west": {"uv": [2, 15, 14, 16], "texture": "#0"},
+				"up": {"uv": [2, 2, 14, 14], "texture": "#0"},
+				"down": {"uv": [2, 2, 14, 14], "texture": "#0"}
+			}
+		}
+	],
+	"display": {
+		"thirdperson_righthand": {
+			"scale": [0.8, 0.8, 0.8],
+			"rotation": [67, 0, 0],
+			"translation": [0, 4, 4.5]
+		},
+		"thirdperson_lefthand": {
+			"scale": [0.8, 0.8, 0.8],
+			"rotation": [67, 0, 0],
+			"translation": [0, 4, 4.5]
+		},
+		"firstperson_righthand": {
+			"translation": [2, 6, 3.5]
+		},
+		"firstperson_lefthand": {
+			"translation": [2, 6, 3.5]
+		},
+		"head": {
+			"scale": [4, 4, 4],
+			"translation": [0, 25, 0]
+		},
+		"ground": {
+			"translation": [0, 4.5, 0]
+		},
+		"gui": {
+			"scale": [0.8, 0.8, 0.8],
+			"rotation": [26, -133, 0],
+			"translation": [0, 4, 0]
+		}
+	},
+	"groups": [
+		{
+			"name": "Model",
+			"children": [0, 1, 2, 3, 4, 5]
+		}, 6]
+}

@@ -1,0 +1,29 @@
+{
+    "variants": 
+    {
+        "facing=up": 
+        { 
+            "model": "minecraftmadness:oak_hat_stand" 
+        },
+    
+        "facing=south": 
+        { 
+            "model": "minecraftmadness:oak_hat_stand" 
+        },
+    
+        "facing=east": 
+        { 
+            "model": "minecraftmadness:oak_hat_stand","y":270 
+        },
+    
+        "facing=west": 
+        { 
+            "model": "minecraftmadness:oak_hat_stand","y":90 
+        },
+    
+        "facing=north": 
+        { 
+            "model": "minecraftmadness:oak_hat_stand","y":180 
+        }
+    }
+}

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cross",
+  "textures": {
+    "cross": "minecraftmadness:blocks/mutated_flower",
+    "particle": "minecraftmadness:blocks/mutated_flower"
+  }
+}

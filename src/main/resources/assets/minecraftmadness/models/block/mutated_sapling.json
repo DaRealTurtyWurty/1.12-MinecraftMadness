@@ -1,0 +1,6 @@
+{
+    "parent": "block/cross",
+    "textures": {
+        "cross": "minecraftmadness:blocks/sapling_mutated"
+    }
+}

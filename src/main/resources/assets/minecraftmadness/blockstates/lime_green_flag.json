@@ -1,0 +1,29 @@
+{
+    "variants": 
+    {
+        "facing=up": 
+        { 
+            "model": "minecraftmadness:lime_green_flag" 
+        },
+    
+        "facing=south": 
+        { 
+            "model": "minecraftmadness:lime_green_flag" 
+        },
+    
+        "facing=east": 
+        { 
+            "model": "minecraftmadness:lime_green_flag","y":270 
+        },
+    
+        "facing=west": 
+        { 
+            "model": "minecraftmadness:lime_green_flag","y":90 
+        },
+    
+        "facing=north": 
+        { 
+            "model": "minecraftmadness:lime_green_flag","y":180 
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "variants": 
+    {
+        "facing=up": 
+        { 
+            "model": "minecraftmadness:ivandpf_plushie" 
+        },
+    
+        "facing=south": 
+        { 
+            "model": "minecraftmadness:ivandpf_plushie" 
+        },
+    
+        "facing=east": 
+        { 
+            "model": "minecraftmadness:ivandpf_plushie","y":270 
+        },
+    
+        "facing=west": 
+        { 
+            "model": "minecraftmadness:ivandpf_plushie","y":90 
+        },
+    
+        "facing=north": 
+        { 
+            "model": "minecraftmadness:ivandpf_plushie","y":180 
+        }
+    }
+}

@@ -1,0 +1,52 @@
+{
+	"parent": "block/cube",
+	"textures": 
+	{
+	"particle": "minecraftmadness:blocks/landmine_top",
+		"up": "minecraftmadness:blocks/landmine_top",
+		"north": "minecraftmadness:blocks/landmine_side",
+		"west": "minecraftmadness:blocks/landmine_side",
+		"east": "minecraftmadness:blocks/landmine_side",
+		"south": "minecraftmadness:blocks/landmine_side",
+		"down": "blocks/tnt_bottom"
+	},
+	
+	"elements": [
+		{
+			"from": [0, 0, 0],
+			"to": [16, 16, 16],
+			"faces": 
+			{
+				"north": 
+				{
+				    "uv": [0, 0, 16, 16], "texture": "#north"
+				},
+				
+				"east": 
+				{
+				    "uv": [0, 0, 16, 16], "texture": "#south"
+				},
+				
+				"south": 
+				{
+				    "uv": [0, 0, 16, 16], "texture": "#east"
+				},
+				
+				"west": 
+				{
+				    "uv": [0, 0, 16, 16], "texture": "#west"
+				},
+				
+				"up": 
+				{
+				    "uv": [0, 0, 16, 16], "texture": "#up"
+				},
+				
+				"down": 
+				{
+				    "uv": [0, 0, 16, 16], "texture": "#down"
+				}
+			}
+		}
+	]
+}

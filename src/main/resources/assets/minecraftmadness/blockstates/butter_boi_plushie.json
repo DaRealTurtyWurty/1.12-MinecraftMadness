@@ -1,0 +1,29 @@
+{
+    "variants": 
+    {
+        "facing=up": 
+        { 
+            "model": "minecraftmadness:butter_boi_plushie" 
+        },
+    
+        "facing=south": 
+        { 
+            "model": "minecraftmadness:butter_boi_plushie" 
+        },
+    
+        "facing=east": 
+        { 
+            "model": "minecraftmadness:butter_boi_plushie","y":270 
+        },
+    
+        "facing=west": 
+        { 
+            "model": "minecraftmadness:butter_boi_plushie","y":90 
+        },
+    
+        "facing=north": 
+        { 
+            "model": "minecraftmadness:butter_boi_plushie","y":180 
+        }
+    }
+}

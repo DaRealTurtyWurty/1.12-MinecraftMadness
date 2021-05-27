@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "   ",
+        "I I",
+        "I I"
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "minecraft:redstone"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "minecraftmadness:boots_redstone",
+        "count": 1
+    }
+}

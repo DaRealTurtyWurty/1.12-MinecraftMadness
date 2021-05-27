@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "www",
+        "w w",
+        "WWW"
+    ],
+    
+    "key":
+    {
+        "W":
+        {
+            "item": "minecraft:planks",
+            "data": 0
+        },  
+        "w":
+        {
+            "item": "minecraft:wheat"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "minecraftmadness:picnic_basket",
+        "count": 1
+    }
+}

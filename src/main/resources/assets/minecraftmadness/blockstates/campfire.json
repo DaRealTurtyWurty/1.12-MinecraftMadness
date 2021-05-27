@@ -1,0 +1,29 @@
+{
+    "variants": 
+    {
+        "facing=up": 
+        { 
+            "model": "minecraftmadness:campfire" 
+        },
+    
+        "facing=south": 
+        { 
+            "model": "minecraftmadness:campfire","y":180 
+        },
+    
+        "facing=east": 
+        { 
+            "model": "minecraftmadness:campfire","y":90 
+        },
+    
+        "facing=west": 
+        { 
+            "model": "minecraftmadness:campfire","y":270 
+        },
+    
+        "facing=north": 
+        { 
+            "model": "minecraftmadness:campfire" 
+        }
+    }
+}

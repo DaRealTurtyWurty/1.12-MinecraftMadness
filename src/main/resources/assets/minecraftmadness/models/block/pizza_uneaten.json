@@ -1,0 +1,29 @@
+{
+	"textures": {
+		"bottom": "minecraftmadness:blocks/pizza_bottom",
+		"top": "minecraftmadness:blocks/pizza_top",
+		"side": "minecraftmadness:blocks/pizza_side",
+		"particle": "minecraftmadness:blocks/pizza_side"
+	},
+	"elements": [
+		{
+			"from": [1, 0, 1],
+			"to": [15, 8, 15],
+			"faces": {
+				"north": {"uv": [1, 8, 15, 16], "texture": "#side"},
+				"east": {"uv": [1, 8, 15, 16], "texture": "#side"},
+				"south": {"uv": [1, 8, 15, 16], "texture": "#side"},
+				"west": {"uv": [1, 8, 15, 16], "texture": "#side"},
+				"up": {"uv": [1, 1, 15, 15], "texture": "#top"},
+				"down": {"uv": [1, 1, 15, 15], "texture": "#bottom", "cullface": "down"}
+			}
+		}
+	],
+	"display": {
+		"gui": {
+			"rotation": [24, -132, 0],
+			"translation": [0, 1.5, 0],
+			"scale": [0.7, 0.7, 0.7]
+		}
+	}
+}

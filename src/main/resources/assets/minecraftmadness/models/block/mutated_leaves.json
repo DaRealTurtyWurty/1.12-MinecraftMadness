@@ -1,0 +1,6 @@
+{
+    "parent": "block/leaves",
+    "textures": {
+        "all": "minecraftmadness:blocks/leaves_mutated"
+    }
+}

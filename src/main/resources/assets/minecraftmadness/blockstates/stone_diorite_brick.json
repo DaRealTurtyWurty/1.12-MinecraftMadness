@@ -1,0 +1,9 @@
+{
+    "variants": 
+    {
+        "normal": 
+        { 
+            "model": "minecraftmadness:stone_diorite_brick" 
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "variants": 
+    {
+        "facing=up": 
+        { 
+            "model": "minecraftmadness:iron_golem_plushie" 
+        },
+    
+        "facing=south": 
+        { 
+            "model": "minecraftmadness:iron_golem_plushie" 
+        },
+    
+        "facing=east": 
+        { 
+            "model": "minecraftmadness:iron_golem_plushie","y":270 
+        },
+    
+        "facing=west": 
+        { 
+            "model": "minecraftmadness:iron_golem_plushie","y":90 
+        },
+    
+        "facing=north": 
+        { 
+            "model": "minecraftmadness:iron_golem_plushie","y":180 
+        }
+    }
+}

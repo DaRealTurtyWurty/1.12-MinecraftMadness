@@ -1,0 +1,12 @@
+{
+   "parent": "block/cube",
+   "textures": {
+       "particle": "minecraftmadness:blocks/mutated_dirt",
+       "down": "minecraftmadness:blocks/mutated_dirt",
+       "up": "minecraftmadness:blocks/mutated_grass",
+       "east": "minecraftmadness:blocks/mutated_grass_side",
+       "west": "minecraftmadness:blocks/mutated_grass_side",
+       "south": "minecraftmadness:blocks/mutated_grass_side",
+       "north": "minecraftmadness:blocks/mutated_grass_side"
+   }
+}

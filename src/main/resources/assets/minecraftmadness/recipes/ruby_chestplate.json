@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "I I",
+        "III",
+        "III"
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "minecraftmadness:ruby"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "minecraftmadness:chestplate_ruby",
+        "count": 1
+    }
+}

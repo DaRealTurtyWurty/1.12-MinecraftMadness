@@ -1,0 +1,399 @@
+//Tabs
+itemGroup.minecraftmadnessitemstab=Minecraft Madness Items
+itemGroup.minecraftmadnessblockstab=Minecraft Madness Blocks
+itemGroup.minecraftmadnessdyedblockstab=Minecraft Madness Dyed Blocks
+itemGroup.minecraftmadnessplushiestab=Minecraft Madness Plushies
+
+//GUIs
+container.freezer=Frys
+container.blender=Mixer
+container.oven=Ugn
+container.microwave=Mikrovågsugn
+container.cupboard=Skåp
+
+//Potions
+effect.radiation_potion=Strålning
+potion_effect.radiation_potion=Strålningsbrygd
+splash_potion.effect.radiation_potion=Kastbar Strålningsbrygd
+lingering_potion.effect.radiation_potion=Kvardröjande Strålningsbrygd
+tipped_arrow.effect.radiation_potion=Strålningspil
+
+//Blockstile.ruby_ore.name=Rubinmalm
+tile.copper_ore.name=Kopparmalm
+tile.money_maker.name=Pengar Skapare
+tile.bird_bath.name=Fågel Bad
+tile.sugarcane_block.name=Sockerrörsblock
+tile.basalt_block.name=Basalt
+tile.ash_block.name=Block Av Aska
+tile.charcoal_block.name=Träkol Block
+tile.blender_block.name=Mixer
+tile.block_candle.name=Ljus
+tile.glass_door.name=Glas dörr
+tile.freezer_block.name=Kist Frys
+tile.land_mine.name=Landmina
+tile.microwave_block.name=Mikrovågsugn
+tile.plate_block.name=Tallrik
+tile.frying_pan_block.name=Stekpanna
+tile.oven_block.name=Ugn
+tile.cupboard_block.name=Skåp
+tile.sapphire_block.name=Safir Block
+tile.tin_block.name=Tenn Block
+tile.uranium_block.name=Uranium Block
+tile.copper_block.name=Koppar Block
+tile.ruby_block.name=Rubin Block
+tile.silver_block.name=Silver Block
+tile.amethyst_block.name=Ametist Block
+tile.sapphire_ore.name=Safirmalm
+tile.tin_ore.name=Tennmalm
+tile.amethyst_ore.name=Amethystmalm
+tile.christmas_tree.name=Julgran
+tile.uranium_ore.name=Uranmalm
+tile.madness_grass.name=Madness Gräs Block
+tile.quarry_basic.name=Basic Quarry
+tile.quarry_tier1.name=Nivå 1 Quarry
+tile.teleporter.name=Teleportör
+tile.jungle_coffee_table.name=Jungel kaffebryggare
+tile.globe.name=Klot
+tile.magmatic_ore.name=Magmatisk malm
+tile.picnic_basket.name=Picknick korg
+tile.chimney.name=Skorsten
+tile.toolbox.name=Verktygslåda
+tile.oak_hat_stand.name=Ek Hatt Ställ
+tile.spruce_hat_stand.name=Gran Hatt Ställ
+tile.birch_hat_stand.name=Björk Hatt Ställ
+tile.acacia_hat_stand.name=Akacia Hatt Ställ
+tile.jungle_hat_stand.name=Jungel Hatt Ställ
+tile.dark_oak_hat_stand.name=Mörk Ek Hat Ställ
+tile.mortar.name=Murbruk
+tile.bowl.name=Skål
+tile.toaster.name=Brödrost
+tile.glowing_obsidian.name=Glödande Obsidian
+tile.nether_reactor_core.name=Nether Reaktorkärna
+tile.cookie_jar.name=Kakburk
+tile.lamp.name=Bordslampa
+tile.lamp_off.name=Bordslampa
+tile.salt_ore.name=Saltmalm
+tile.campfire.name=Tänd Lägereld
+tile.campfire_off.name=Lägereld
+tile.oven_off.name=Ugn
+tile.pizza_block.name=Margherita Pizza
+tile.mutated_stone.name=Muterad sten
+
+//Bricks
+tile.stone_andesite_brick.name=Andesit Mur
+tile.stone_diorite_brick.name=Diorit Mur
+tile.stone_granite_brick.name=Granit Mur
+tile.stone_andesite_smooth_brick.name=Polerad Andesit Mur
+tile.stone_diorite_smooth_brick.name=Polerad Diorit Mur
+tile.stone_granite_smooth_brick.name=Polerad Granit Mur
+tile.snow_brick.name=Snö Mur
+tile.slime_brick.name=Slem Mur
+tile.soul_sand_brick.name=Själsand Mur
+tile.packed_ice_brick.name=Packad Is Mur
+
+//Chopping Boards
+tile.oak_chopping_board.name=Ek Skärbräda
+tile.birch_chopping_board.name=Björj Skärbräda
+tile.spruce_chopping_board.name=Gran Skärbräda
+tile.acacia_chopping_board.name=Akacia Skärbräda
+tile.dark_oak_chopping_board.name=Mörk Ek Skärbräda
+tile.jungle_chopping_board.name=Jungel Skärbräda
+
+//Coffee Tables
+tile.oak_coffee_table.name=Ek kaffebryggare
+tile.birch_coffee_table.name=Björk kaffebryggare
+tile.spruce_coffee_table.name=Gran kaffebryggare
+tile.acacia_coffee_table.name=Akacia kaffebryggare
+tile.dark_oak_coffee_table.name=Mörk Ek kaffebryggare
+
+//Armchairs
+tile.armchair_black.name=Svart Fåtölj
+tile.armchair_blue.name=Blå Fåtölj
+tile.armchair_brown.name=Brun Fåtölj
+tile.armchair_cyan.name=Cyan Fåtölj
+tile.armchair_gray.name=Grå Fåtölj
+tile.armchair_green.name=Grön Fåtölj
+tile.armchair_light_blue.name=Ljus Blå Fåtölj
+tile.armchair_light_gray.name=Ljus Grå Fåtölj
+tile.armchair_lime.name=Lime Grön Fåtölj
+tile.armchair_magenta.name=Magenta Fåtölj
+tile.armchair_orange.name=Orange Fåtölj
+tile.armchair_pink.name=Rosa Fåtölj
+tile.armchair_purple.name=Lila Fåtölj
+tile.armchair_red.name=Röd Fåtölj
+tile.armchair_white.name=Vit Fåtölj
+tile.armchair_yellow.name=Gul Fåtölj
+tile.madness_planks.name=Madness Plankor
+tile.madness_log.name=Madness Stamar
+
+/Fluids
+fluid.raw_oil=Rå Oil
+
+//Plushies
+tile.turtywurty_plushie.name=TurtyWurty Gosedjur
+tile.fapdos_plushie.name=fapdos Gosedjur
+tile.cjminecraft01_plushie.name=CJMinecraft Gosedjur
+tile.huskytheartist_plushie.name=HuskyTheArtist Gosedjur
+tile.salradahn_plushie.name=Salradahn Gosedjur
+tile.ivandpf_plushie.name=ivandpf Gosedjur
+tile.viktorp04_plushie.name=ViktorP04 Gosedjur
+tile.intivi_plushie.name=Tiviacz1337 Gosedjur
+tile.mrcrayfish_plushie.name=MrCrayfish Gosedjur
+tile.steve_plushie.name=Steve Gosedjur
+tile.alex_plushie.name=Alex Gosedjur
+tile.harry_talks_plushie.name=Harry Talks' Microphone Gosedjur
+tile.smellysox345_plushie.name=SmellyModder Gosedjur
+tile.felix__argyle_plushie.name=Korlimann Gosedjur
+tile.snow_golem_plushie.name=Snö gubbe Gosedjur
+tile.butter_boi_plushie.name=Butter Boi Gosedjur
+tile.zombie_villager_plushie.name=Zombie Bybo Gosedjur
+
+//Food
+item.tomato.name=Tomat
+item.lettuce.name=Sallad
+item.kiwi.name=Kiwi
+item.lemon.name=Citron
+item.lime.name=Lime
+item.banana.name=Banan
+item.cooked_burger.name=Kokt Burgare
+item.raw_burger.name=Rå Burgare
+item.almonds.name=Mandlar
+item.grapes.name=Vindruvor
+item.hot_dog.name=Korv med bröd
+item.hash_brown.name=Hash Brun
+item.green_beans.name=Gröna Bönor
+item.broccoli.name=Broccoli
+item.celery.name=Selleri
+item.fries.name=Pomfritt
+item.fried_egg.name=Stekt Egg
+item.ketchup.name=Ketchup
+item.asparagus.name=Asparagus
+item.bagel.name=Bagel
+item.bacon.name=Bacon
+item.cooked_bacon.name=Stekt Bacon
+item.big_mac.name=Big Mac
+item.cheese.name=Ost
+item.chocolate.name=Choklad
+item.coffee.name=Kaffe
+item.burrito.name=Burrito
+item.milkshake.name=Milkshake
+item.prunes.name=Påse Med Torkade Plommon
+item.raw_sausage.name=Rå Korv
+item.sausage.name=Korv
+item.toast.name=Rostat bröd
+item.sushi.name=Sushi
+item.raw_venison.name=Rått Rådjur
+item.cooked_venison.name=Kokt Rådjur
+item.avocado.name=Avocado
+item.doughnut.name=Munk
+item.beer.name=Öl
+item.ice_cream.name=Glass
+item.peach.name=Päron
+item.tomato_seeds.name=Tomat Frön
+item.lemon_seeds.name=Citron Frön
+item.dorito.name=Dorito
+item.walnut.name=Valnut
+item.honey.name=Kruka med Honung
+item.knife.name=Kniv
+item.pizza_cutter.name=Pizza Skärare
+item.frog_legs.name=Grod ben
+item.cooked_frog_legs.name=Kokta Grod ben
+item.ruby_apple.name=Rubin Äpple
+item.enchanted_ruby_apple.name=Förtrollat Rubin Äpple
+item.tomato_soup.name=Tomat Soppa
+item.green_apple.name=Grön Äpple
+item.sandwich.name=Smörgås
+item.corn.name=Majs
+item.dog_biscuit.name=Hund Kex
+item.orange.name=Apelsin
+item.olive.name=Oliv
+item.nori.name=Nori(Tång)
+item.super_material.name=Super Material
+item.uranium_dust.name=Uranium Pulver
+item.apple.name=Rött Äpple
+item.salt.name=Salt
+item.rice.name=Ris
+item.fur.name=Päls
+item.fire_arrow.name=Eld pil
+item.ender_shard_1.name=Ender Skärva
+item.ender_shard_2.name=Ender Skärva
+item.ender_shard_3.name=Ender Skärva
+item.ender_shard_4.name=Ender Skärva
+item.ender_shard_5.name=Ender Skärva
+item.ender_shard_full.name=Ender Skärva
+
+//Smoothies
+item.kiwi_banana_s.name=Kiwi & Banan Smoothie
+item.kiwi_orange_s.name=Kiwi & Apelsin Smoothie
+item.kiwi_apple_s.name=Kiwi & Äpple Smoothie
+item.kiwi_gapple_s.name=Kiwi & Grön Äpple Smoothie
+
+//Flags
+tile.white_flag.name=Vit Flagga
+tile.black_flag.name=Svart Flagga
+tile.grey_flag.name=Grå Flagga
+tile.light_grey_flag.name=Ljus Grå Flagga
+tile.blue_flag.name=Blå Flagga
+tile.red_flag.name=Röd Flagga
+tile.yellow_flag.name=Gul Flagga
+tile.orange_flag.name=Orange Flagga
+tile.purple_flag.name=Lila Flagga
+tile.pink_flag.name=Rosa Flagga
+tile.cyan_flag.name=Cyan Flagga
+tile.magenta_flag.name=Magenta Flagga
+tile.light_blue_flag.name=Ljus Blå Flagga
+tile.lime_green_flag.name=Lime Grön Flagga
+tile.green_flag.name=Grön Flagga
+tile.brown_flag.name=Brun Flagga
+
+//Chairs
+tile.blue_chair_block.name=Blå Stol
+tile.black_chair_block.name=Svart Stol
+tile.grey_chair_block.name=Grå Stol
+tile.light_grey_chair_block.name=Ljus Grå Stol
+tile.red_chair_block.name=Röd Stol
+tile.light_blue_chair_block.name=Ljus Blå Stol
+tile.orange_chair_block.name=Orange Stol
+tile.white_chair_block.name=Vit Stol
+tile.yellow_chair_block.name=Gul Stol
+tile.brown_chair_block.name=Brun Stol
+tile.green_chair_block.name=Grön Stol
+tile.lime_chair_block.name=Lime Grön Stol
+tile.pink_chair_block.name=Rosa Stol
+tile.magenta_chair_block.name=Magenta Stol
+tile.purple_chair_block.name=Lila Stol
+tile.cyan_chair_block.name=Cyan Stol
+
+//Dyed Ek PLanks
+tile.red_oak_planks.name=Röda Plankor
+tile.orange_oak_planks.name=Orange Plankor
+tile.yellow_oak_planks.name=Gula Plankor
+tile.brown_oak_planks.name=Bruna Plankor
+tile.grey_oak_planks.name=Grå Plankor
+tile.light_grey_oak_planks.name=Ljus Grå Plankor
+tile.black_oak_planks.name=Svarta Plankor
+tile.white_oak_planks.name=Vita Plankor
+tile.green_oak_planks.name=Gröna Plankor
+tile.cyan_oak_planks.name=Cyan Plankor
+tile.lime_oak_planks.name=Lime Gröna Plankor
+tile.blue_oak_planks.name=Blåa Plankor
+tile.light_blue_oak_planks.name=Ljus Blåa Plankor
+tile.purple_oak_planks.name=Lila Plankor
+tile.magenta_oak_planks.name=Magenta Plankor
+tile.pink_oak_planks.name=Rosa Plankor
+
+//Dyed Kullersten
+tile.red_cobblestone.name=Röd Kullersten
+tile.orange_cobblestone.name=Orange Kullersten
+tile.yellow_cobblestone.name=Gul Kullersten
+tile.brown_cobblestone.name=Brun Kullersten
+tile.grey_cobblestone.name=Grå Kullersten
+tile.light_grey_cobblestone.name=Ljus Grå Kullersten
+tile.black_cobblestone.name=Svart Kullersten
+tile.white_cobblestone.name=Vit Kullersten
+tile.green_cobblestone.name=Grön Kullersten
+tile.cyan_cobblestone.name=Cyan Kullersten
+tile.lime_cobblestone.name=Lime Grön Kullersten
+tile.blue_cobblestone.name=Blå Kullersten
+tile.light_blue_cobblestone.name=Ljus Blå Kullersten
+tile.purple_cobblestone.name=Lila Kullersten
+tile.magenta_cobblestone.name=Magenta Kullersten
+tile.pink_cobblestone.name=Rosa Kullersten
+
+//Dyed Sten
+tile.red_stone.name=Röd Sten
+tile.orange_stone.name=Orange Sten
+tile.yellow_stone.name=Gul Sten
+tile.brown_stone.name=Brun Sten
+tile.grey_stone.name=Grå Sten
+tile.light_grey_stone.name=Ljus Grå Sten
+tile.black_stone.name=Svart Sten
+tile.white_stone.name=Vit Sten
+tile.green_stone.name=Grön Sten
+tile.cyan_stone.name=Cyan Sten
+tile.lime_stone.name=Lime Grön Sten
+tile.blue_stone.name=Blå Sten
+tile.light_blue_stone.name=Ljus Blå Sten
+tile.purple_stone.name=Lila Sten
+tile.magenta_stone.name=Magenta Sten
+tile.pink_stone.name=Rosa Sten
+
+//Entities
+entity.frog.name=Groda
+entity.tadpole.name=Grodyngel
+entity.scorpion.name=Skorpion
+entity.smoke.name=Rökläggare
+entity.beaver.name=Bäver
+
+//Items
+item.heart.name=Hjärta
+item.gold_heart.name=Golden Hjärta
+item.backpack.name=Ryggsäck
+item.skinned_frog_legs.name=Skinnade grod ben
+item.ruby.name=Rubin
+item.sapphire.name=Safir
+item.amethyst.name=Ametist
+item.obsidian_ingot.name=Obsidian Tacka
+item.copper_ingot.name=Koppar Tacka
+item.uranium_ingot.name=Uranium Tacka
+item.tin_ingot.name=Tenn Tacka
+item.silver_ingot.name=Silver Tacka
+item.ruby_chunk.name=Rubin Stycke
+item.obsidian_nugget.name=Obsidian Klimp
+item.copper_nugget.name=Koppar Klimp
+item.tin_nugget.name=Tenn Klimp
+item.silver_nugget.name=Silver Klimp
+item.uranium_nugget.name=Uranium Klimp
+item.ring.name=Ring
+item.copper_coin.name=Koppar Mynt
+item.silver_coin.name=Silver Mynt
+item.gold_coin.name=Guld Mynt
+item.sapphire_chunk.name=Safir Stycke
+item.mod_book.name=Minecraft Madness Handbok (WIP)
+item.leather_bow.name=Läder Förstyvad Båge
+item.fur.name=Päls
+item.fertilizer.name=Gödsel
+
+//Tools
+item.sword_ruby.name=Rubinsvärd
+item.pickaxe_ruby.name=Rubinhacka
+item.shovel_ruby.name=Rubinspade
+item.axe_ruby.name=Rubinyxa
+item.hoe_ruby.name=Rubinflåhacka
+
+//Armor
+item.helmet_ruby.name=Rubin Hjälm
+item.chestplate_ruby.name=Rubin Harnesk
+item.leggings_ruby.name=Rubin Byxor
+item.boots_ruby.name=Rubin Stövlar
+
+item.helmet_miner.name=Gruvarbetares Hjälm
+
+item.helmet_redstone.name=Redstone Hjälm
+item.chestplate_redstone.name=Redstone Harnesk
+item.leggings_redstone.name=Redstone Byxor
+item.boots_redstone.name=Redstone Stövlar
+
+item.helmet_lapis.name=Lapis Hjälm
+item.chestplate_lapis.name=Lapis Harnesk
+item.leggings_lapis.name=Lapis Byxor
+item.boots_lapis.name=Lapis Stövlar
+
+item.helmet_sapphire.name=Safir Hjälm
+item.chestplate_sapphire.name=Safir Harnesk
+item.leggings_sapphire.name=Safir Byxor
+item.boots_sapphire.name=Safir Stövlar
+
+//Orbs
+item.regeneration_orb.name=Klot Av Återhämtning
+item.haste_orb.name=Klot Av Snabbhet
+item.jump_boost_orb.name=Klot Av Hoppstyrka
+item.speed_orb.name=Klot Av Hastighet
+item.resistance_orb.name=Klot Av Resistans
+item.instant_health_orb.name=Klot Av Snabb Återhämtning
+item.strength_orb.name=Klot Av Styrka
+item.fire_resistance_orb.name=Klot Av Eldresistans
+item.levitation_orb.name=Klot Av Levitation
+item.night_vision_orb.name=Klot Av mörkerseende
+item.saturation_orb.name=Klot Av Mättnad
+item.water_breathing_orb.name=Klot Av Undervattensandning

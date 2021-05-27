@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "   ",
+        "A A",
+        "AAA"
+    ],
+    
+    "key":
+    {
+        "A":
+        {
+            "item": "minecraft:stone",
+            "data": 5
+        }
+    },
+    
+    "result":
+    {
+        "item": "minecraftmadness:mortar",
+        "count": 8
+    }
+}

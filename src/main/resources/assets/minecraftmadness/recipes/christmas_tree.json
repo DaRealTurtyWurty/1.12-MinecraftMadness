@@ -1,0 +1,34 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " S ",
+        " D ",
+        " F "
+    ],
+    
+    "key":
+    {
+        "S":
+        {
+            "item": "minecraft:sapling",
+            "data": 1
+        },  
+        "D":
+        {
+            "item": "minecraft:dirt",
+            "data": 0
+        },
+        "F":
+        {
+            "item": "minecraft:flower_pot"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "minecraftmadness:christmas_tree",
+        "count": 1
+    }
+}

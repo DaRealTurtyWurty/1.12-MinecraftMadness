@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "CCC",
+        "CGC",
+        "CCC"
+    ],
+    
+    "key":
+    {
+        "C":
+        {
+            "item": "minecraft:concrete",
+            "data": 0
+        },  
+        "G":
+        {
+            "item": "minecraft:glass"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "minecraftmadness:cookie_jar",
+        "count": 16
+    }
+}

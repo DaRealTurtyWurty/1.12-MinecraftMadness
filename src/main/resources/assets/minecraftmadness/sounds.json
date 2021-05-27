@@ -1,0 +1,71 @@
+{
+    "entity.frog.frog_ambient":
+    {
+        "category": "entity",
+        "subtitle": "entity.frog.frog_ambient",
+        "sounds": [{
+                        "name": "minecraftmadness:entity/frog/frog_ambient", 
+                        "stream": true
+                  }]
+    },
+    
+     "entity.frog.frog_hurt":
+    {
+        "category": "entity",
+        "subtitle": "entity.frog.frog_hurt",
+        "sounds": [{
+                        "name": "minecraftmadness:entity/frog/frog_hurt", 
+                        "stream": true
+                  }]
+    },
+    
+     "entity.frog.frog_death":
+    {
+        "category": "entity",
+        "subtitle": "entity.frog.frog_death",
+        "sounds": [{
+                        "name": "minecraftmadness:entity/frog/frog_death", 
+                        "stream": true
+                  }]
+    },
+    
+     "entity.scorpion.scorpion_ambient":
+    {
+        "category": "entity",
+        "subtitle": "entity.scorpion.scorpion_ambient",
+        "sounds": [{
+                        "name": "minecraftmadness:entity/scorpion/scorpion_ambient", 
+                        "stream": true
+                  }]
+    },
+    
+      "entity.scorpion.scorpion_hurt":
+    {
+        "category": "entity",
+        "subtitle": "entity.scorpion.scorpion_hurt",
+        "sounds": [{
+                        "name": "minecraftmadness:entity/scorpion/scorpion_hurt", 
+                        "stream": true
+                  }]
+    },
+    
+      "entity.scorpion.scorpion_death":
+    {
+        "category": "entity",
+        "subtitle": "entity.scorpion.scorpion_death",
+        "sounds": [{
+                        "name": "minecraftmadness:entity/scorpion/scorpion_death", 
+                        "stream": true
+                  }]
+    },
+    
+     "machines.money_maker.machine_sound":
+    {
+        "category": "block",
+        "subtitle": "machines.money_maker.machine_sound",
+        "sounds": [{
+                        "name": "minecraftmadness:machines/money_maker/machine_sound", 
+                        "stream": true
+                  }]
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        " II",
+        " SI",
+        " S "
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "minecraftmadness:ruby"
+        },
+        
+        "S":
+        {
+            "item": "minecraft:stick"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "minecraftmadness:axe_ruby",
+        "count": 1
+    }
+}

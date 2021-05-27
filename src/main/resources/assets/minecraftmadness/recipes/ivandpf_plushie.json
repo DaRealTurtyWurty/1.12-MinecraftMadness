@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "WWW",
+        "WIW",
+        "WWW"
+    ],
+    
+    "key":
+    {
+        "W":
+        {
+            "item": "minecraft:wool",
+            "data": 13
+        },
+        
+        "I":
+        {
+            "item": "minecraft:stained_hardened_clay",
+            "data": 13
+        }
+    },
+    
+    "result":
+    {
+        "item":  "minecraftmadness:ivandpf_plushie",
+        "count": 1
+    }
+}

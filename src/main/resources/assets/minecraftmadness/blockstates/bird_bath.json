@@ -1,0 +1,29 @@
+{
+    "variants": 
+    {
+        "facing=up": 
+        { 
+            "model": "minecraftmadness:bird_bath" 
+        },
+    
+        "facing=south": 
+        { 
+            "model": "minecraftmadness:bird_bath" 
+        },
+    
+        "facing=east": 
+        { 
+            "model": "minecraftmadness:bird_bath","y":270 
+        },
+    
+        "facing=west": 
+        { 
+            "model": "minecraftmadness:bird_bath","y":90 
+        },
+    
+        "facing=north": 
+        { 
+            "model": "minecraftmadness:bird_bath","y":180 
+        }
+    }
+}

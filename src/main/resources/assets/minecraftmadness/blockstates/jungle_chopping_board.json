@@ -1,0 +1,29 @@
+{
+    "variants": 
+    {
+        "facing=up": 
+        { 
+            "model": "minecraftmadness:jungle_chopping_board" 
+        },
+    
+        "facing=south": 
+        { 
+            "model": "minecraftmadness:jungle_chopping_board" 
+        },
+    
+        "facing=east": 
+        { 
+            "model": "minecraftmadness:jungle_chopping_board","y":270 
+        },
+    
+        "facing=west": 
+        { 
+            "model": "minecraftmadness:jungle_chopping_board","y":90 
+        },
+    
+        "facing=north": 
+        { 
+            "model": "minecraftmadness:jungle_chopping_board","y":180 
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "variants": 
+    {
+        "facing=up": 
+        { 
+            "model": "minecraftmadness:lamp_off" 
+        },
+    
+        "facing=south": 
+        { 
+            "model": "minecraftmadness:lamp_off","y":180  
+        },
+    
+        "facing=east": 
+        { 
+            "model": "minecraftmadness:lamp_off","y":90 
+        },
+    
+        "facing=west": 
+        { 
+            "model": "minecraftmadness:lamp_off","y":270
+        },
+    
+        "facing=north": 
+        { 
+            "model": "minecraftmadness:lamp_off"
+        }
+    }
+}

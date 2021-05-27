@@ -1,0 +1,29 @@
+{
+    "variants": 
+    {
+        "facing=up": 
+        { 
+            "model": "minecraftmadness:jungle_coffee_table" 
+        },
+    
+        "facing=south": 
+        { 
+            "model": "minecraftmadness:jungle_coffee_table" 
+        },
+    
+        "facing=east": 
+        { 
+            "model": "minecraftmadness:jungle_coffee_table","y":270 
+        },
+    
+        "facing=west": 
+        { 
+            "model": "minecraftmadness:jungle_coffee_table","y":90 
+        },
+    
+        "facing=north": 
+        { 
+            "model": "minecraftmadness:jungle_coffee_table","y":180 
+        }
+    }
+}

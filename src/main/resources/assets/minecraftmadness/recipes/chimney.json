@@ -1,0 +1,28 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "B B",
+        "B B",
+        "CCC"
+    ],
+    
+    "key":
+    {
+        "C":
+        {
+            "item": "minecraft:cobblestone"
+        },  
+        "B":
+        {
+            "item": "minecraft:brick_block"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "minecraftmadness:chimney",
+        "count": 1
+    }
+}

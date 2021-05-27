@@ -1,0 +1,29 @@
+{
+    "variants": 
+    {
+        "facing=up": 
+        { 
+            "model": "minecraftmadness:fapdos_plushie" 
+        },
+    
+        "facing=south": 
+        { 
+            "model": "minecraftmadness:fapdos_plushie" 
+        },
+    
+        "facing=east": 
+        { 
+            "model": "minecraftmadness:fapdos_plushie","y":270 
+        },
+    
+        "facing=west": 
+        { 
+            "model": "minecraftmadness:fapdos_plushie","y":90 
+        },
+    
+        "facing=north": 
+        { 
+            "model": "minecraftmadness:fapdos_plushie","y":180 
+        }
+    }
+}

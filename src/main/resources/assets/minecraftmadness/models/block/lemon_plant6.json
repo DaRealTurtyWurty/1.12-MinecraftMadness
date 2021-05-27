@@ -1,0 +1,6 @@
+{
+    "parent": "block/crop",
+    "textures": {
+        "crop": "minecraftmadness:blocks/lemon_plant6"
+    }
+}

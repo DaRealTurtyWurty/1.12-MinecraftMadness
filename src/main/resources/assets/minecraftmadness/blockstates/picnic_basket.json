@@ -1,0 +1,29 @@
+{
+    "variants": 
+    {
+        "facing=up": 
+        { 
+            "model": "minecraftmadness:picnic_basket_0" 
+        },
+    
+        "facing=south": 
+        { 
+            "model": "minecraftmadness:picnic_basket_0" 
+        },
+    
+        "facing=east": 
+        { 
+            "model": "minecraftmadness:picnic_basket_0","y":270 
+        },
+    
+        "facing=west": 
+        { 
+            "model": "minecraftmadness:picnic_basket_0","y":90 
+        },
+    
+        "facing=north": 
+        { 
+            "model": "minecraftmadness:picnic_basket_0","y":180 
+        }
+    }
+}

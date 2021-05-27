@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_all",
+    "textures":
+    {
+        "all": "minecraftmadness:blocks/mutated_water_still"
+    }
+}

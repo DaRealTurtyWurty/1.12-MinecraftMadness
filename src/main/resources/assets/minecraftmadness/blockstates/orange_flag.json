@@ -1,0 +1,29 @@
+{
+    "variants": 
+    {
+        "facing=up": 
+        { 
+            "model": "minecraftmadness:orange_flag" 
+        },
+    
+        "facing=south": 
+        { 
+            "model": "minecraftmadness:orange_flag" 
+        },
+    
+        "facing=east": 
+        { 
+            "model": "minecraftmadness:orange_flag","y":270 
+        },
+    
+        "facing=west": 
+        { 
+            "model": "minecraftmadness:orange_flag","y":90 
+        },
+    
+        "facing=north": 
+        { 
+            "model": "minecraftmadness:orange_flag","y":180 
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "variants": 
+    {
+        "facing=up": 
+        { 
+            "model": "minecraftmadness:christmas_tree" 
+        },
+    
+        "facing=south": 
+        { 
+            "model": "minecraftmadness:christmas_tree" 
+        },
+    
+        "facing=east": 
+        { 
+            "model": "minecraftmadness:christmas_tree","y":270 
+        },
+    
+        "facing=west": 
+        { 
+            "model": "minecraftmadness:christmas_tree","y":90 
+        },
+    
+        "facing=north": 
+        { 
+            "model": "minecraftmadness:christmas_tree","y":180 
+        }
+    }
+}

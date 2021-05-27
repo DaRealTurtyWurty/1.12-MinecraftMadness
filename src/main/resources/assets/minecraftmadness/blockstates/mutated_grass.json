@@ -1,0 +1,9 @@
+{
+    "variants": 
+    {
+        "snowy=false":  
+        { 
+            "model": "minecraftmadness:mutated_grass" 
+        }
+    }
+}

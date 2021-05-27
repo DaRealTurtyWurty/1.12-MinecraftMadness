@@ -1,0 +1,29 @@
+{
+    "variants": 
+    {
+        "facing=up": 
+        { 
+            "model": "minecraftmadness:globe" 
+        },
+    
+        "facing=south": 
+        { 
+            "model": "minecraftmadness:globe" 
+        },
+    
+        "facing=east": 
+        { 
+            "model": "minecraftmadness:globe","y":270 
+        },
+    
+        "facing=west": 
+        { 
+            "model": "minecraftmadness:globe","y":90 
+        },
+    
+        "facing=north": 
+        { 
+            "model": "minecraftmadness:globe","y":180 
+        }
+    }
+}

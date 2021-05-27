@@ -1,0 +1,29 @@
+{
+    "variants": 
+    {
+        "facing=up": 
+        { 
+            "model": "minecraftmadness:cookie_jar" 
+        },
+    
+        "facing=south": 
+        { 
+            "model": "minecraftmadness:cookie_jar","y":180  
+        },
+    
+        "facing=east": 
+        { 
+            "model": "minecraftmadness:cookie_jar","y":90 
+        },
+    
+        "facing=west": 
+        { 
+            "model": "minecraftmadness:cookie_jar","y":270
+        },
+    
+        "facing=north": 
+        { 
+            "model": "minecraftmadness:cookie_jar"
+        }
+    }
+}

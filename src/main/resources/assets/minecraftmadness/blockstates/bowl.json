@@ -1,0 +1,29 @@
+{
+    "variants": 
+    {
+        "facing=up": 
+        { 
+            "model": "minecraftmadness:bowl" 
+        },
+    
+        "facing=south": 
+        { 
+            "model": "minecraftmadness:bowl" 
+        },
+    
+        "facing=east": 
+        { 
+            "model": "minecraftmadness:bowl","y":270 
+        },
+    
+        "facing=west": 
+        { 
+            "model": "minecraftmadness:bowl","y":90 
+        },
+    
+        "facing=north": 
+        { 
+            "model": "minecraftmadness:bowl","y":180 
+        }
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "variants": 
+    {
+        "facing=up": 
+        { 
+            "model": "minecraftmadness:armchair_orange" 
+        },
+    
+        "facing=south": 
+        { 
+            "model": "minecraftmadness:armchair_orange","y":180  
+        },
+    
+        "facing=east": 
+        { 
+            "model": "minecraftmadness:armchair_orange","y":90 
+        },
+    
+        "facing=west": 
+        { 
+            "model": "minecraftmadness:armchair_orange","y":270 
+        },
+    
+        "facing=north": 
+        { 
+            "model": "minecraftmadness:armchair_orange" 
+        }
+    }
+}

@@ -1,0 +1,9 @@
+{
+    "variants": {
+        "facing=up": { "model": "minecraftmadness:frying_pan_block" },
+  "facing=south": { "model": "minecraftmadness:frying_pan_block" },
+  "facing=east": { "model": "minecraftmadness:frying_pan_block","y":270 },
+  "facing=west": { "model": "minecraftmadness:frying_pan_block","y":90 },
+  "facing=north": { "model": "minecraftmadness:frying_pan_block","y":180 }
+    }
+}

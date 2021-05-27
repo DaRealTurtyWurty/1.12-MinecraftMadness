@@ -1,0 +1,29 @@
+{
+    "variants": 
+    {
+        "facing=up": 
+        { 
+            "model": "minecraftmadness:zombie_villager_plushie" 
+        },
+    
+        "facing=south": 
+        { 
+            "model": "minecraftmadness:zombie_villager_plushie" 
+        },
+    
+        "facing=east": 
+        { 
+            "model": "minecraftmadness:zombie_villager_plushie","y":270 
+        },
+    
+        "facing=west": 
+        { 
+            "model": "minecraftmadness:zombie_villager_plushie","y":90 
+        },
+    
+        "facing=north": 
+        { 
+            "model": "minecraftmadness:zombie_villager_plushie","y":180 
+        }
+    }
+}

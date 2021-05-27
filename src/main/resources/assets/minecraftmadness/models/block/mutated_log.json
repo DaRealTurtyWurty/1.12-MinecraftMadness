@@ -1,0 +1,7 @@
+{
+    "parent": "block/cube_column",
+    "textures": {
+        "end": "minecraftmadness:blocks/log_mutated_top",
+        "side": "minecraftmadness:blocks/log_mutated"
+    }
+}

@@ -1,0 +1,31 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "WWW",
+        "WwW",
+        "WWW"
+    ],
+    
+    "key":
+    {
+        "W":
+        {
+            "item": "minecraft:wool",
+            "data": 15
+        },
+        
+        "w":
+        {
+            "item": "minecraft:planks",
+            "data": 4
+        }
+    },
+    
+    "result":
+    {
+        "item":  "minecraftmadness:huskytheartist_plushie",
+        "count": 1
+    }
+}

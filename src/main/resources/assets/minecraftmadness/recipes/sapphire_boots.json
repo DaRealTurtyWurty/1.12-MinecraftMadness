@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "   ",
+        "I I",
+        "I I"
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "minecraftmadness:sapphire"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "minecraftmadness:boots_sapphire",
+        "count": 1
+    }
+}

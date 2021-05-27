@@ -1,0 +1,21 @@
+{
+    "variants": {
+        "normal": { "model": "minecraftmadness:mutated_sugarcane" },
+        "age=0": { "model": "minecraftmadness:mutated_sugarcane" },
+        "age=1": { "model": "minecraftmadness:mutated_sugarcane" },
+        "age=2": { "model": "minecraftmadness:mutated_sugarcane" },
+        "age=3": { "model": "minecraftmadness:mutated_sugarcane" },
+        "age=4": { "model": "minecraftmadness:mutated_sugarcane" },
+        "age=5": { "model": "minecraftmadness:mutated_sugarcane" },
+        "age=6": { "model": "minecraftmadness:mutated_sugarcane" },
+        "age=7": { "model": "minecraftmadness:mutated_sugarcane" },
+        "age=8": { "model": "minecraftmadness:mutated_sugarcane" },
+        "age=9": { "model": "minecraftmadness:mutated_sugarcane" },
+        "age=10": { "model": "minecraftmadness:mutated_sugarcane" },
+        "age=11": { "model": "minecraftmadness:mutated_sugarcane" },
+        "age=12": { "model": "minecraftmadness:mutated_sugarcane" },
+        "age=13": { "model": "minecraftmadness:mutated_sugarcane" },
+        "age=14": { "model": "minecraftmadness:mutated_sugarcane" },
+        "age=15": { "model": "minecraftmadness:mutated_sugarcane" }
+    }
+}

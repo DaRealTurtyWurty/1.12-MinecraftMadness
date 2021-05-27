@@ -1,0 +1,29 @@
+{
+    "variants": 
+    {
+        "facing=up": 
+        { 
+            "model": "minecraftmadness:block_candle" 
+        },
+    
+        "facing=south": 
+        { 
+            "model": "minecraftmadness:block_candle" 
+        },
+    
+        "facing=east": 
+        { 
+            "model": "minecraftmadness:block_candle","y":270 
+        },
+    
+        "facing=west": 
+        { 
+            "model": "minecraftmadness:block_candle","y":90 
+        },
+    
+        "facing=north": 
+        { 
+            "model": "minecraftmadness:block_candle","y":180 
+        }
+    }
+}

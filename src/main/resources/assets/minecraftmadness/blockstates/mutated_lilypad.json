@@ -1,0 +1,10 @@
+{
+    "variants": {
+        "normal": [
+            { "model": "minecraftmadness:mutated_lilypad" },
+            { "model": "minecraftmadness:mutated_lilypad", "y": 90 },
+            { "model": "minecraftmadness:mutated_lilypad", "y": 180 },
+            { "model": "minecraftmadness:mutated_lilypad", "y": 270 }
+        ]
+    }
+}

@@ -1,0 +1,25 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "III",
+        "I I",
+        "I I"
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "minecraft:dye",
+            "data": 4
+        }
+    },
+    
+    "result":
+    {
+        "item":  "minecraftmadness:leggings_lapis",
+        "count": 1
+    }
+}

@@ -1,0 +1,24 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "I I",
+        "III",
+        "III"
+    ],
+    
+    "key":
+    {
+        "I":
+        {
+            "item": "minecraft:redstone"
+        }
+    },
+    
+    "result":
+    {
+        "item":  "minecraftmadness:chestplate_redstone",
+        "count": 1
+    }
+}

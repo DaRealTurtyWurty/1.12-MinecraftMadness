@@ -1,0 +1,393 @@
+//Tabs
+itemGroup.minecraftmadnessitemstab=Minecraft Madness - Przedmioty
+itemGroup.minecraftmadnessblockstab=Minecraft Madness - Bloki
+itemGroup.minecraftmadnessdyedblockstab=Minecraft Madness - Kolorowe Bloki
+itemGroup.minecraftmadnessplushiestab=Minecraft Madness - Pluszaki
+
+//GUIs
+container.freezer=Zamrażarka
+container.blender=Mikser
+container.oven=Piekarnik
+container.microwave=Mikrofalówka
+container.cupboard=               Szafka
+
+//Potions
+effect.radiation_potion=Radiacja
+potion_effect.radiation_potion=Mikstura radiacji
+splash_potion.effect.radiation_potion=Miotana mikstura radiacji
+lingering_potion.effect.radiation_potion=Trwała mikstura radiacji
+tipped_arrow.effect.radiation_potion=Strzała radiacji
+
+//Blocks
+tile.ruby_ore.name=Ruda rubinu
+tile.copper_ore.name=Ruda miedzi
+tile.money_maker.name=Maszyna do pieniędzy
+tile.bird_bath.name=Fontanna dla ptaków
+tile.sugarcane_block.name=Blok trzciny cukrowej
+tile.basalt_block.name=Bazalt
+tile.ash_block.name=Blok popiołu
+tile.charcoal_block.name=Blok węgla drzewnego
+tile.blender_block.name=Mikser
+tile.block_candle.name=Świeca
+tile.glass_door.name=Szklane drzwi
+tile.freezer_block.name=Chest Freezer
+tile.land_mine.name=Mina
+tile.microwave_block.name=Mikrofalówka
+tile.plate_block.name=Talerz
+tile.frying_pan_block.name=Patelnia
+tile.cupboard_block.name=Szafka
+tile.sapphire_block.name=Blok szafiru
+tile.tin_block.name=Blok cyny
+tile.uranium_block.name=Blok uranu
+tile.copper_block.name=Blok miedzi
+tile.ruby_block.name=Blok rubinu
+tile.silver_block.name=Blok srebra
+tile.amethyst_block.name=Blok ametystu
+tile.sapphire_ore.name=Ruda szafiru
+tile.tin_ore.name=Ruda cyny
+tile.amethyst_ore.name=Ruda ametystu
+tile.christmas_tree.name=Drzewko świąteczne
+tile.uranium_ore.name=Ruda uranu
+tile.mutated_grass.name=Zmutowana trawa
+tile.quarry_basic.name=Podstawowy kamieniołom
+tile.quarry_tier1.name=Kamieniołom 1 poziomu
+tile.teleporter.name=Teleport
+tile.jungle_coffee_table.name=Stolik tropikalny
+tile.globe.name=Globus
+tile.magmatic_ore.name=Ruda magmowa
+tile.picnic_basket.name=Koszyk piknikowy
+tile.chimney.name=Komin
+tile.toolbox.name=Skrzynka na narzędzia
+tile.oak_hat_stand.name=Dębowy stojak na kapelusz
+tile.spruce_hat_stand.name=Świerkowy stojak na kapelusz
+tile.birch_hat_stand.name=Brzozowy stojak na kapelusz
+tile.acacia_hat_stand.name=Akacjowy stojak na kapelusz
+tile.jungle_hat_stand.name=Tropikalny stojak na kapelusz
+tile.dark_oak_hat_stand.name=Ciemnodębowy stojak na kapelusz
+tile.mortar.name=Moździerz
+tile.bowl.name=Miska
+tile.toaster.name=Toster
+tile.glowing_obsidian.name=Świeciący obsydian
+tile.nether_reactor_core.name=Rdzeń reaktora Netheru
+tile.cookie_jar.name=Słoik na ciastka
+tile.lamp.name=Włączona lampa stołowa
+tile.lamp_off.name=Lampa stołowa
+tile.salt_ore.name=Ruda soli
+tile.campfire.name=Podpalone ognisko
+tile.campfire_off.name=Ognisko
+tile.oven_off.name=Piekarnik
+tile.pizza_block.name=Margherita
+tile.mutated_stone.name=Zmutowany kamień
+
+//Bricks
+tile.stone_andesite_brick.name=Cegły z andezytu
+tile.stone_diorite_brick.name=Cegły z diorytu
+tile.stone_granite_brick.name=Cegły z granitu
+tile.stone_andesite_smooth_brick.name=Wypolerowane cegły z andezytu
+tile.stone_diorite_smooth_brick.name=Wypolerowane cegły z diorytu
+tile.stone_granite_smooth_brick.name=Wypolerowane cegły z granitu
+tile.snow_brick.name=Cegły ze śniegu
+tile.slime_brick.name=Cegły ze szlamu
+tile.soul_sand_brick.name=Cegły z piasku dusz
+tile.packed_ice_brick.name=Cegły ze zbitego lodu
+
+//Chopping Boards
+tile.oak_chopping_board.name=Debowa deska do krojenia
+tile.birch_chopping_board.name=Brzozowa deska do krojenia
+tile.spruce_chopping_board.name=Świerkowa deska do krojenia
+tile.acacia_chopping_board.name=Akacjowa deska do krojenia
+tile.dark_oak_chopping_board.name=Ciemnodębowa deska do krojenia
+tile.jungle_chopping_board.name=Tropikalna deska do krojenia
+
+//Coffee Tables
+tile.oak_coffee_table.name=Debowy stolik
+tile.birch_coffee_table.name=Brzozowy stolik
+tile.spruce_coffee_table.name=Świerkowy stolik
+tile.acacia_coffee_table.name=Akacjowy stolik
+tile.dark_oak_coffee_table.name=Ciemnodębowy stolik
+
+//Armchairs
+tile.armchair_black.name=Czarny fotel
+tile.armchair_blue.name=Niebieski fotel
+tile.armchair_brown.name=Brązowy fotel
+tile.armchair_cyan.name=Błękitny fotel
+tile.armchair_gray.name=Szarny fotel
+tile.armchair_green.name=Zielony fotel
+tile.armchair_light_blue.name=Jasnoniebieski fotel
+tile.armchair_light_gray.name=Jasnoszary fotel
+tile.armchair_lime.name=Jasnozielony fotel
+tile.armchair_magenta.name=Fioletowy fotel
+tile.armchair_orange.name=Pomarańczowy fotel
+tile.armchair_pink.name=Różowy fotel
+tile.armchair_purple.name=Fioletowy fotel
+tile.armchair_red.name=Czerwony fotel
+tile.armchair_white.name=Biały fotel
+tile.armchair_yellow.name=Żółty fotel
+tile.madness_planks.name=Deski Madness
+tile.madness_log.name=Drewno Madness
+
+/Fluids
+fluid.raw_oil=Nieprzetworzony olej
+
+//Plushies
+tile.turtywurty_plushie.name=Pluszak TurtyWurty
+tile.fapdos_plushie.name=Pluszak fapdos
+tile.cjminecraft01_plushie.name=Pluszak CJMinecraft
+tile.huskytheartist_plushie.name=Pluszak HuskyTheArtist
+tile.salradahn_plushie.name=Pluszak Salradahn
+tile.ivandpf_plushie.name=Pluszak ivandpf
+tile.viktorp04_plushie.name=Pluszak ViktorP04
+tile.intivi_plushie.name=Pluszak Tiviacz1337
+tile.mrcrayfish_plushie.name=Pluszak MrCrayfish
+tile.steve_plushie.name=Pluszak Steve
+tile.alex_plushie.name=Pluszak Alex
+tile.harry_talks_plushie.name=Pluszak mikrofonu Harry Talks
+tile.smellysox345_plushie.name=Pluszak SmellyModder
+tile.felix__argyle_plushie.name=Pluszak Korlimann
+tile.snow_golem_plushie.name=Pluszak bałwana
+tile.butter_boi_plushie.name=Pluszak Butter Boi
+tile.zombie_villager_plushie.name=Pluszak osadnika zombie
+
+//Food
+item.tomato.name=Pomidor
+item.lettuce.name=Sałata
+item.kiwi.name=Kiwi
+item.lemon.name=Cytryna
+item.lime.name=Limonka
+item.banana.name=Banan
+item.cooked_burger.name=Upieczony burger
+item.raw_burger.name=Surowy burger
+item.almonds.name=Migdały
+item.grapes.name=Winogrona
+item.hot_dog.name=Hot Dog
+item.hash_brown.name=Hash Brown
+item.green_beans.name=Zielona fasolki
+item.broccoli.name=Brokuły
+item.celery.name=Seler
+item.fries.name=Frytki
+item.fried_egg.name=Jajko sadzone
+item.ketchup.name=Keczup
+item.asparagus.name=Szparag
+item.bagel.name=Obwarzanek
+item.bacon.name=Boczek
+item.cooked_bacon.name=Upieczony boczek
+item.big_mac.name=Big Mac
+item.cheese.name=Ser
+item.chocolate.name=Czekolada
+item.coffee.name=Kawa
+item.burrito.name=Burrito
+item.milkshake.name=Napój mleczny
+item.prunes.name=Bag of Prunes
+item.raw_sausage.name=Surowa kiełbasa
+item.sausage.name=Kiełbasa
+item.toast.name=Tost
+item.sushi.name=Sushi
+item.raw_venison.name=Surowa dziczyzna
+item.cooked_venison.name=Surowa dziczyzna
+item.avocado.name=Awokado
+item.doughnut.name=Pączek
+item.beer.name=Piwo
+item.ice_cream.name=Lody
+item.peach.name=Brzoskwinia
+item.tomato_seeds.name=Nasiona pomidora
+item.lemon_seeds.name=Nasiona cytryny
+item.dorito.name=Dorito
+item.walnut.name=Orzech włoski
+item.honey.name=Garnek miodu
+item.knife.name=Nóż
+item.pizza_cutter.name=Nóż do pizzy
+item.frog_legs.name=Żabie udka
+item.cooked_frog_legs.name=Upieczone żabie udka
+item.ruby_apple.name=Rubinowe jabłko
+item.enchanted_ruby_apple.name=Ulepszone złote jabłko
+item.tomato_soup.name=Zupa pomidorowa
+item.green_apple.name=Zielone jabłko
+item.sandwich.name=Kanapka
+item.corn.name=Kukurydza
+item.dog_biscuit.name=Ciastko dla psa
+item.orange.name=Pomarańcza
+item.olive.name=Oliwka
+item.nori.name=Nori (wodorosty)
+item.super_material.name=Super materiał
+item.uranium_dust.name=Pył uranu
+item.apple.name=Czerwone jabłko
+item.salt.name=Sól
+item.rice.name=Ryż
+item.fur.name=Futro
+item.fire_arrow.name=Ognista strzała
+
+//Smoothies
+item.kiwi_banana_s.name=Koktail z kiwi i bananów
+item.kiwi_orange_s.name=Koktail z kiwi i pomarańczy
+item.kiwi_apple_s.name=Koktail z kiwi i czerwonych jabłek
+item.kiwi_gapple_s.name=Koktail z kiwi i zielonych jabłek
+
+//Flags
+tile.white_flag.name=Biała flaga
+tile.black_flag.name=Czarna flaga
+tile.grey_flag.name=Szara flaga
+tile.light_grey_flag.name=Jasnoszara flaga
+tile.blue_flag.name=Niebieska flaga
+tile.red_flag.name=Czerwona flaga
+tile.yellow_flag.name=Żółta flaga
+tile.orange_flag.name=Pomarańczowa flaga
+tile.purple_flag.name=Fioletowa flaga
+tile.pink_flag.name=Różowa flaga
+tile.cyan_flag.name=Błękitna flaga
+tile.magenta_flag.name=Karmazynowa flaga
+tile.light_blue_flag.name=Jasnoniebieska flaga
+tile.lime_green_flag.name=Jasnozielona flaga
+tile.green_flag.name=Zielona flaga
+tile.brown_flag.name=Brązowa flaga
+
+//Chairs
+tile.blue_chair_block.name=Niebieskie krzesło
+tile.black_chair_block.name=Czarne krzesło
+tile.grey_chair_block.name=Szare krzesło
+tile.light_grey_chair_block.name=Jasnoszare krzesło
+tile.red_chair_block.name=Czerwone krzesło
+tile.light_blue_chair_block.name=Jasnoniebieskie krzesło
+tile.orange_chair_block.name=Pomarańczowe krzesło
+tile.white_chair_block.name=Białe krzesło
+tile.yellow_chair_block.name=Żółte krzesło
+tile.brown_chair_block.name=Brązowe krzesło
+tile.green_chair_block.name=Zielone krzesło
+tile.lime_chair_block.name=Jasnozielone krzesło
+tile.pink_chair_block.name=Różowe krzesło
+tile.magenta_chair_block.name=Karmazynowe krzesło
+tile.purple_chair_block.name=Fioletowe krzesło
+tile.cyan_chair_block.name=Błękitne krzesło
+
+//Dyed Oak PLanks
+tile.red_oak_planks.name=Czerwone deski
+tile.orange_oak_planks.name=Pomarańczowe deski
+tile.yellow_oak_planks.name=Żółte deski
+tile.brown_oak_planks.name=Brązowe deski
+tile.grey_oak_planks.name=Szare deski
+tile.light_grey_oak_planks.name=Jasnoszare deski
+tile.black_oak_planks.name=Czarne deski
+tile.white_oak_planks.name=Białe deski
+tile.green_oak_planks.name=Zielone deski
+tile.cyan_oak_planks.name=Błękitne deski
+tile.lime_oak_planks.name=Jasnozielone deski
+tile.blue_oak_planks.name=Niebieskie deski
+tile.light_blue_oak_planks.name=Jasnoniebieskie deski
+tile.purple_oak_planks.name=Fioletowe deski
+tile.magenta_oak_planks.name=Karmazynowe deski
+tile.pink_oak_planks.name=Różowe deski
+
+//Dyed Cobblestone
+tile.red_cobblestone.name=Czerwony bruk
+tile.orange_cobblestone.name=Pomarańczowy bruk
+tile.yellow_cobblestone.name=Żółty bruk
+tile.brown_cobblestone.name=Brązowy bruk
+tile.grey_cobblestone.name=Szary bruk
+tile.light_grey_cobblestone.name=Jasnoszary bruk
+tile.black_cobblestone.name=Czarny bruk
+tile.white_cobblestone.name=Biały bruk
+tile.green_cobblestone.name=Zielony bruk
+tile.cyan_cobblestone.name=Błękitny bruk
+tile.lime_cobblestone.name=Jasnozielony bruk
+tile.blue_cobblestone.name=Niebieski bruk
+tile.light_blue_cobblestone.name=Jasnoniebieski bruk
+tile.purple_cobblestone.name=Fioletowy bruk
+tile.magenta_cobblestone.name=Karmazynowy bruk
+tile.pink_cobblestone.name=Różowy bruk
+
+//Dyed Stone
+tile.red_stone.name=Czerwony kamień
+tile.orange_stone.name=Pomarańczowy kamień
+tile.yellow_stone.name=Żółty kamień
+tile.brown_stone.name=Brązowy kamień
+tile.grey_stone.name=Szary kamień
+tile.light_grey_stone.name=Jasnoszary kamień
+tile.black_stone.name=Czarny kamień
+tile.white_stone.name=Biały kamień
+tile.green_stone.name=Zielony kamień
+tile.cyan_stone.name=Błękitny kamień
+tile.lime_stone.name=Jasnozielony kamień
+tile.blue_stone.name=Niebieski kamień
+tile.light_blue_stone.name=Jasnoniebieski kamień
+tile.purple_stone.name=Fioletowy kamień
+tile.magenta_stone.name=Karmazynowy kamień
+tile.pink_stone.name=Różowy kamień
+
+//Entities
+entity.frog.name=Żaba
+entity.tadpole.name=Kijanka
+entity.scorpion.name=Skorpion
+entity.smoke.name=Dym
+entity.beaver.name=Bóbr
+
+//Items
+item.heart.name=Serce
+item.gold_heart.name=Złote serce
+item.backpack.name=Plecak
+item.skinned_frog_legs.name=Oskórowane żabie udka
+item.ruby.name=Rubin
+item.sapphire.name=Szafir
+item.amethyst.name=Ametyst
+item.obsidian_ingot.name=Sztabka obsydianu
+item.copper_ingot.name=sztabka miedzi
+item.uranium_ingot.name=Sztabka uranu
+item.tin_ingot.name=Sztabka cyny
+item.silver_ingot.name=Sztabka srebra
+item.ruby_chunk.name=Kawałek rubinu
+item.obsidian_nugget.name=Bryłka obsydianu
+item.copper_nugget.name=Bryłka miedzi
+item.tin_nugget.name=Bryłka cyny
+item.silver_nugget.name=Bryłka srebra
+item.uranium_nugget.name=Bryłka uranu
+item.ring.name=Pierścień
+item.copper_coin.name=Miedziana moneta
+item.silver_coin.name=Srebrna moneta
+item.gold_coin.name=Złota moneta
+item.sapphire_chunk.name=Kawałek szafiru
+item.mod_book.name=Przewodnik Minecraft Madness (WIP)
+item.leather_bow.name=Skórzany usztywniony łuk
+item.fur.name=Futro
+item.fertilizer.name=Nawóz
+
+//Tools
+item.sword_ruby.name=Rubinowy miecz
+item.pickaxe_ruby.name=Rubinowy kilof
+item.shovel_ruby.name=Rubinowa łopata
+item.axe_ruby.name=Rubinowa siekiera
+item.hoe_ruby.name=Rubinowa motyka
+
+//Armor
+item.helmet_ruby.name=Rubinowy hełm
+item.chestplate_ruby.name=Rubinowy napierśnik
+item.leggings_ruby.name=Rubinowe nogawice
+item.boots_ruby.name=Rubinowe buty
+
+item.helmet_miner.name=Hełm górnika
+
+item.helmet_redstone.name=Redstone'owy hełm
+item.chestplate_redstone.name=Redstone'owy napierśnik
+item.leggings_redstone.name=Redstone'owe nogawice
+item.boots_redstone.name=Redstone'owe buty
+
+item.helmet_lapis.name=Lazurytowy hełm
+item.chestplate_lapis.name=Lazurytowy napierśnik
+item.leggings_lapis.name=Lazurytowe nogawice
+item.boots_lapis.name=Lazurytowe buty
+
+item.helmet_sapphire.name=Szafirowy hełm
+item.chestplate_sapphire.name=Szafirowy napierśnik
+item.leggings_sapphire.name=Szafirowe nogawice
+item.boots_sapphire.name=Szafirowe buty
+
+//Orbs
+item.regeneration_orb.name=Kula uzdrowienia
+item.haste_orb.name=Kula pośpiechu
+item.jump_boost_orb.name=Kula wysokiego skoku
+item.speed_orb.name=Kula szybkości
+item.resistance_orb.name=Kula odporności
+item.instant_health_orb.name=Kula szybkiego leczenia
+item.strength_orb.name=Kula siły
+item.fire_resistance_orb.name=Kula odporności na ogień
+item.levitation_orb.name=Kula lewitacji
+item.night_vision_orb.name=Kula widzenia w ciemności
+item.saturation_orb.name=Kula nasycenia
+item.water_breathing_orb.name=Kula oddychania pod wodą

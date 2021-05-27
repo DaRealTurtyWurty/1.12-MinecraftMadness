@@ -1,0 +1,29 @@
+{
+    "variants": 
+    {
+        "facing=up": 
+        { 
+            "model": "minecraftmadness:turtywurty_plushie" 
+        },
+    
+        "facing=south": 
+        { 
+            "model": "minecraftmadness:turtywurty_plushie" 
+        },
+    
+        "facing=east": 
+        { 
+            "model": "minecraftmadness:turtywurty_plushie","y":270 
+        },
+    
+        "facing=west": 
+        { 
+            "model": "minecraftmadness:turtywurty_plushie","y":90 
+        },
+    
+        "facing=north": 
+        { 
+            "model": "minecraftmadness:turtywurty_plushie","y":180 
+        }
+    }
+}

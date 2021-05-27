@@ -1,0 +1,29 @@
+{
+    "variants": 
+    {
+        "facing=up": 
+        { 
+            "model": "minecraftmadness:lamp" 
+        },
+    
+        "facing=south": 
+        { 
+            "model": "minecraftmadness:lamp","y":180  
+        },
+    
+        "facing=east": 
+        { 
+            "model": "minecraftmadness:lamp","y":90 
+        },
+    
+        "facing=west": 
+        { 
+            "model": "minecraftmadness:lamp","y":270
+        },
+    
+        "facing=north": 
+        { 
+            "model": "minecraftmadness:lamp"
+        }
+    }
+}

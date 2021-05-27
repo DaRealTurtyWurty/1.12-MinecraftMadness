@@ -1,0 +1,29 @@
+{
+    "variants": 
+    {
+        "facing=up": 
+        { 
+            "model": "minecraftmadness:birch_coffee_table" 
+        },
+    
+        "facing=south": 
+        { 
+            "model": "minecraftmadness:birch_coffee_table" 
+        },
+    
+        "facing=east": 
+        { 
+            "model": "minecraftmadness:birch_coffee_table","y":270 
+        },
+    
+        "facing=west": 
+        { 
+            "model": "minecraftmadness:birch_coffee_table","y":90 
+        },
+    
+        "facing=north": 
+        { 
+            "model": "minecraftmadness:birch_coffee_table","y":180 
+        }
+    }
+}

@@ -1,0 +1,30 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "WWW",
+        "WRW",
+        "WWW"
+    ],
+    
+    "key":
+    {
+        "W":
+        {
+            "item": "minecraft:wool",
+            "data": 1
+        },
+        
+        "R":
+        {
+            "item": "minecraft:redstone"
+        }
+    },
+    
+    "result":
+    {
+        "item": "minecraftmadness:cjminecraft01_plushie",
+        "count": 1
+    }
+}

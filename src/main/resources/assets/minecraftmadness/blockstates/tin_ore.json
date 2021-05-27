@@ -1,0 +1,9 @@
+{
+    "variants": 
+    {
+        "normal": 
+        { 
+            "model": "minecraftmadness:tin_ore" 
+        }
+    }
+}
